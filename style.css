@@ -1,0 +1,11 @@
+.container{
+    display:  flex;
+
+    margin-left: 10rem;
+    margin-right: 10rem;
+    
+}
+
+body{
+    background-color:rgb(41, 41, 41);
+}
